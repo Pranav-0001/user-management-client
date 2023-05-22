@@ -38,6 +38,7 @@ function Profile() {
 
   return (
     <>
+    <br />
       <div className='profilePage'>
         <div className="card-client">
           <div className="user-picture">
